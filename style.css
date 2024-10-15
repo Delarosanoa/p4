@@ -1,0 +1,32 @@
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: ;
+}
+#cercle1 {
+    position: absolute;
+    width: 253px;
+    height: 253px;
+    border-radius:253px ;
+    background:#008ABC ;
+    
+}
+#rectangle {
+    width: 515px;;
+    height: 320px; ;
+    background-color:#1C9E51 ;
+}
+#cercle2{
+    width: 128px;
+    height: 128px;
+    border-radius:128px ;
+    background: #D1B34B;
+}
+#cercle3 {
+    width: 253px;
+    height: 253px;
+    border-radius: 253px;
+    background-color: #1C9E51;
+}
